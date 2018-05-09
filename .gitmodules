@@ -1,0 +1,3 @@
+[submodule "sublime_text_3_user_settings"]
+	path = sublime_text_3_user_settings
+	url = git@github.com:eayoungs/sublime_text_3_user_settings.git
